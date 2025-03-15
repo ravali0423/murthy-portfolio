@@ -6,11 +6,10 @@ const skills = [
   "HCM Cloud",
   "SCM Cloud",
   "VBCS (Visual Builder Cloud Service)",
-  "SOAP & REST APIs",
+  "REST & SOAP APIs",
   "OAuth Authentication",
   "FTP & Database Integrations",
-  "Fault Handling & Test Cases",
-  "Presales Integration Solutions",
+  "Fault Handling & Error Logging",
   "Power BI",
   "MFTCS Monitoring & Automation"
 ];
@@ -33,4 +32,3 @@ const Skills = () => {
 };
 
 export default Skills;
-

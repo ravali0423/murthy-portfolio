@@ -4,26 +4,26 @@ const experiences = [
   {
     title: "Senior Consultant",
     company: "Mastek",
-    year: "May 2022 - Present",
+    year: "Dec 2023 - Present",
     description: "Developed and extended VBCS applications, implemented ERP and SCM-based integrations, and delivered presales integration solutions with POCs for internal teams.",
   },
   {
-    title: "Oracle Integration Cloud Developer",
+    title: "Cloud Consultant",
     company: "Oracle",
-    year: "Aug 2021 - May 2022",
-    description: "Designed and developed complex integration flows for HCM and ERP Cloud. Created reusable components, implemented fault handling, and optimized existing integrations.",
+    year: " Feb 2022 - Dec 2023",
+    description: "Developed complex integration flow patterns, built reusable Common Framework Components, handled fault management, and implemented HCM & HDL-driven integrations for enterprise clients.",
   },
   {
-    title: "Oracle Integration Cloud Developer",
+    title: "Associate 2",
     company: "PwC",
-    year: "Dec 2020 - Aug 2021",
-    description: "Built integrations using HCM and ERP Cloud. Worked with HDL adapters, implemented OAuth authentication, and created client-facing test cases.",
+    year: "Sep 2021 - Feb 2022",
+    description: "Built scheduled & app-driven integrations, developed HCM & HDL-based flows, and implemented OAuth security for VBCS BO.",
   },
   {
-    title: "Oracle Integration Cloud Developer",
+    title: "Application Development Associate",
     company: "Accenture",
-    year: "Oct 2019 - Dec 2020",
-    description: "Developed and implemented OIC solutions for ERP, HCM, and SCM modules. Automated MFTCS monitoring, improving efficiency by 30%.",
+    year: "Nov 2018 - Aug 2021",
+    description: "Designed and implemented scheduled integrations, migrated legacy systems, automated MFTCS monitoring, and developed ERP, FTP, DB, SOAP, and REST-based integrations. Extracted and transformed data for Oracle Autonomous Data Warehouse and created Power BI visualizations.",
   }
 ];
 

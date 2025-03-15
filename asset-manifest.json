@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/murthy-portfolio/static/css/main.97caa971.css",
+    "main.js": "/murthy-portfolio/static/js/main.7a25da84.js",
+    "static/js/453.9abf6958.chunk.js": "/murthy-portfolio/static/js/453.9abf6958.chunk.js",
+    "index.html": "/murthy-portfolio/index.html",
+    "main.97caa971.css.map": "/murthy-portfolio/static/css/main.97caa971.css.map",
+    "main.7a25da84.js.map": "/murthy-portfolio/static/js/main.7a25da84.js.map",
+    "453.9abf6958.chunk.js.map": "/murthy-portfolio/static/js/453.9abf6958.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97caa971.css",
+    "static/js/main.7a25da84.js"
+  ]
+}

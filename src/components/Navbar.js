@@ -1,4 +1,5 @@
 import React from "react";
+import murthyImage from "../assets/murthy.jpg";
 
 const Navbar = () => {
   return (
@@ -8,7 +9,7 @@ const Navbar = () => {
           {/* Left Side: Profile Image + Name */}
           <div className="flex items-center space-x-3">
             <img 
-              src="/murthy.jpg" 
+              src={murthyImage} 
               alt="Murthy" 
               className="w-12 h-12 rounded-full border-2 border-gray-300"
             />
